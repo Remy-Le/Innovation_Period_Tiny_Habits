@@ -9,3 +9,4 @@ https://creativapp-builder.lovable.app/
 MVP made during my exchange semester in Shanghai
 
 "Best public speaking" award
+![image](https://github.com/user-attachments/assets/fe45b491-b945-47db-b5e8-acb5db95e39a)
