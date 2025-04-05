@@ -6,4 +6,6 @@ Keep your finances in check—right from your home screen.
 
 https://creativapp-builder.lovable.app/
 
-Made during my exchange semester in Shanghai
+MVP made during my exchange semester in Shanghai
+
+"Best public speaking" award
